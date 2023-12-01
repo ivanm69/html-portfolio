@@ -1,0 +1,60 @@
+html{
+    background-color:  #E1C78F;
+
+}
+body{
+ font-family: "Poppins", sans-serif;
+  margin: 50px 50px 0 50px;
+  
+  display: flex;
+  flex-direction: column;
+  min-height: 95vh;
+}
+div{
+    flex: 1;
+
+}
+
+.mojtekst{
+    border-bottom: 1px solid black;
+    color: whitesmoke;
+    text-align: center;
+    background-color: #E1C78F;
+    display:block;
+    justify-content: space-between;
+    flex-direction: column;
+    
+}.projekti{ 
+    width: 45%;
+    
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+
+img.profilna{
+    border-radius:50%;
+}
+span{
+    color: blueviolet;
+}
+.projekti{
+width: 100%;
+  display: block;
+  margin-bottom: 30px;
+ justify-content:center; }
+
+.movie{
+    font-size: large;
+    
+}
+.invitation{
+    font-size: large;
+  
+}
+footer{
+    text-align:center;
+}
